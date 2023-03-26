@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about **JavaScript and React**
+- 💬 Ask me about **JavaScript, React, and Ruby.**
 
 - 📫 How to reach me **abdulsaboorsohaib@gmail.com**
 
